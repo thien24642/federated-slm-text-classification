@@ -1,0 +1,7 @@
+epoch,train_loss,eval_loss,accuracy,macro_f1,time_per_epoch,trainable_params,total_params,model_name,dataset_name,setting,best_metric_so_far,patience_counter,is_new_best
+1,0.44042472412109374,0.33887722536087034,0.85404,0.8540296020030573,124.19495058059692,14350874,14350874,huawei-noah/TinyBERT_General_4L_312D,imdb,centralized_tinybert_full_finetuning,0.85404,0,True
+2,0.3214840560913086,0.3143783254814148,0.86556,0.8655585886878406,128.88430213928223,14350874,14350874,huawei-noah/TinyBERT_General_4L_312D,imdb,centralized_tinybert_full_finetuning,0.86556,0,True
+3,0.2746518246459961,0.3110605810451508,0.86972,0.8697051382553618,128.3822832107544,14350874,14350874,huawei-noah/TinyBERT_General_4L_312D,imdb,centralized_tinybert_full_finetuning,0.86972,0,True
+4,0.2365443600463867,0.45732548919677735,0.84864,0.847454387184734,129.12312626838684,14350874,14350874,huawei-noah/TinyBERT_General_4L_312D,imdb,centralized_tinybert_full_finetuning,0.86972,1,False
+5,0.20719494926452636,0.4597947829055786,0.8514,0.8505485406021944,128.11114859580994,14350874,14350874,huawei-noah/TinyBERT_General_4L_312D,imdb,centralized_tinybert_full_finetuning,0.86972,2,False
+6,0.18961036392211914,0.5464768897628784,0.85392,0.8530874349760642,127.10493493080139,14350874,14350874,huawei-noah/TinyBERT_General_4L_312D,imdb,centralized_tinybert_full_finetuning,0.86972,3,False

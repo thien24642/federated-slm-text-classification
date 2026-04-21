@@ -1,0 +1,7 @@
+﻿dataset_name,model_name,setting,accuracy,macro_f1,train_time,inference_time,num_train_samples,num_test_samples,tfidf_max_features
+ag_news,logistic_regression,TF-IDF + Logistic Regression,0.919736842,0.919582426,32.0613451,0.635784626,120000,7600,50000
+ag_news,svm,TF-IDF + SVM,0.922368421,0.922268461,28.5176208,0.698178291,120000,7600,50000
+imdb,logistic_regression,TF-IDF + Logistic Regression,0.90092,0.900918116,19.1027813,10.64719796,25000,25000,50000
+imdb,svm,TF-IDF + SVM,0.898,0.897999624,18.46361589,10.37655234,25000,25000,50000
+sst2,logistic_regression,TF-IDF + Logistic Regression,0.809633028,0.808900178,6.302997112,0.046670914,67349,872,50000
+sst2,svm,TF-IDF + SVM,0.816513761,0.816045398,3.792627811,0.065283537,67349,872,50000

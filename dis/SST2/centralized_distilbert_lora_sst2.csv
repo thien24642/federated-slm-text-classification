@@ -1,0 +1,14 @@
+﻿epoch,train_loss,eval_loss,accuracy,macro_f1,time_per_epoch,trainable_params,total_params,model_name,dataset_name,setting,best_metric_so_far,patience_counter,is_new_best
+1,0.660966,0.517043,0.817661,0.816984,106.36,739586,67694596,Centralized DistilBERT + LoRA,SST-2,centralized,0.817661,0,True
+2,0.362247,0.362225,0.836009,0.836007,98.79,739586,67694596,Centralized DistilBERT + LoRA,SST-2,centralized,0.836009,0,True
+3,0.32649,0.337287,0.84633,0.846265,98.13,739586,67694596,Centralized DistilBERT + LoRA,SST-2,centralized,0.84633,0,True
+4,0.304462,0.307723,0.865826,0.865824,100.11,739586,67694596,Centralized DistilBERT + LoRA,SST-2,centralized,0.865826,0,True
+5,0.289766,0.291569,0.868119,0.868027,99.94,739586,67694596,Centralized DistilBERT + LoRA,SST-2,centralized,0.868119,0,True
+6,0.276654,0.284283,0.881881,0.881668,96.72,739586,67694596,Centralized DistilBERT + LoRA,SST-2,centralized,0.881881,0,True
+7,0.264915,0.274212,0.879587,0.879583,96.35,739586,67694596,Centralized DistilBERT + LoRA,SST-2,centralized,0.881881,1,False
+8,0.253757,0.266398,0.886468,0.886425,97.24,739586,67694596,Centralized DistilBERT + LoRA,SST-2,centralized,0.886468,0,True
+9,0.244355,0.27386,0.888761,0.888515,96.89,739586,67694596,Centralized DistilBERT + LoRA,SST-2,centralized,0.888761,0,True
+10,0.233799,0.264595,0.889908,0.88972,96.66,739586,67694596,Centralized DistilBERT + LoRA,SST-2,centralized,0.889908,0,True
+11,0.225004,0.271651,0.87844,0.878332,96.18,739586,67694596,Centralized DistilBERT + LoRA,SST-2,centralized,0.889908,1,False
+12,0.216778,0.265992,0.888761,0.888655,95.99,739586,67694596,Centralized DistilBERT + LoRA,SST-2,centralized,0.889908,2,False
+13,0.207319,0.266206,0.884174,0.88414,95.92,739586,67694596,Centralized DistilBERT + LoRA,SST-2,centralized,0.889908,3,False

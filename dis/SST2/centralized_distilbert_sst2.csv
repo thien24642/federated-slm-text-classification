@@ -1,0 +1,13 @@
+﻿epoch,train_loss,eval_loss,accuracy,macro_f1,time_per_epoch,trainable_params,total_params,model_name,dataset_name,setting,best_metric_so_far,patience_counter,is_new_best
+1,0.681664,0.625434,0.598624,0.517257,205.29,66955010,66955010,Centralized DistilBERT (full fine-tuning),SST-2,centralized,0.598624,0,True
+2,0.389031,0.336257,0.850917,0.85091,198.99,66955010,66955010,Centralized DistilBERT (full fine-tuning),SST-2,centralized,0.850917,0,True
+3,0.286697,0.291672,0.869266,0.869131,202.06,66955010,66955010,Centralized DistilBERT (full fine-tuning),SST-2,centralized,0.869266,0,True
+4,0.249703,0.261122,0.886468,0.886324,200.31,66955010,66955010,Centralized DistilBERT (full fine-tuning),SST-2,centralized,0.886468,0,True
+5,0.218834,0.267549,0.888761,0.888409,199.55,66955010,66955010,Centralized DistilBERT (full fine-tuning),SST-2,centralized,0.888761,0,True
+6,0.190974,0.266821,0.899083,0.898929,200.48,66955010,66955010,Centralized DistilBERT (full fine-tuning),SST-2,centralized,0.899083,0,True
+7,0.167538,0.266366,0.900229,0.900049,199.53,66955010,66955010,Centralized DistilBERT (full fine-tuning),SST-2,centralized,0.900229,0,True
+8,0.145612,0.272552,0.90367,0.90354,200.53,66955010,66955010,Centralized DistilBERT (full fine-tuning),SST-2,centralized,0.90367,0,True
+9,0.127775,0.274841,0.905963,0.905903,201.96,66955010,66955010,Centralized DistilBERT (full fine-tuning),SST-2,centralized,0.905963,0,True
+10,0.11257,0.303429,0.90367,0.90357,202.93,66955010,66955010,Centralized DistilBERT (full fine-tuning),SST-2,centralized,0.905963,1,False
+11,0.098432,0.33434,0.887615,0.887273,202.52,66955010,66955010,Centralized DistilBERT (full fine-tuning),SST-2,centralized,0.905963,2,False
+12,0.086759,0.319291,0.897936,0.897838,200.3,66955010,66955010,Centralized DistilBERT (full fine-tuning),SST-2,centralized,0.905963,3,False
